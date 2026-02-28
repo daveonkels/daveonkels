@@ -11,13 +11,13 @@
 ![Home Assistant](https://img.shields.io/badge/-Home_Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
 
-> I'd rather ship a prototype than polish a spec. By day I lead product and design for on-demand care and Health AI at One Medical. By night I build CLI tools, native apps, and whatever scratches the itch — currently running a 3,860-entity Home Assistant setup and vibing with agentic AI.
+> I'd rather ship a prototype than polish a spec. By day I lead product and design for on-demand care and Health AI at One Medical. By night I build CLI tools, native apps, and whatever scratches the itch — currently running a 3,860-entity Home Assistant setup and deeply involved in agentic AI.
 
 ## Current Projects
 
-- 🦞 **[Shelldex](https://shelldex.com)** ([repo](https://github.com/daveonkels/clawdex)) - Every shell in the sea — the complete directory of OpenClaw clones, forks, and derivatives
-- 📱 **[Labby](https://labby.casa)** ([repo](https://github.com/daveonkels/labby)) - Native iOS app for homelab enthusiasts connecting to Homepage dashboards
-- 💬 **[CentralChat](https://centralchat.fyi)** ([repo](https://github.com/daveonkels/centralchat)) - ChatGPT, Claude, and Raycast AI chat archive viewer — local-first, privacy-focused
+- 🦞 **[shelldex](https://shelldex.com)** ([repo](https://github.com/daveonkels/clawdex)) - Every shell in the sea — the complete directory of OpenClaw clones, forks, and derivatives
+- 📱 **[labby](https://labby.casa)** ([repo](https://github.com/daveonkels/labby)) - Native iOS app for homelab enthusiasts connecting to Homepage dashboards
+- 💬 **[centralchat](https://centralchat.fyi)** ([repo](https://github.com/daveonkels/centralchat)) - ChatGPT, Claude, and Raycast AI chat archive viewer — local-first, privacy-focused
 - 🔗 **[clinkding](https://github.com/daveonkels/clinkding)** - Modern CLI for linkding bookmark manager
 - 📧 **[fastmail-cli](https://github.com/daveonkels/fastmail-cli)** - Fastmail CLI for email, masked addresses, calendars, contacts, files, and vacation auto-replies
 - 📤 **[raycast-ai-exporter](https://github.com/daveonkels/raycast-ai-exporter)** - Export Raycast AI chat sessions to structured JSON
@@ -25,12 +25,12 @@
 - 🖼️ **[nano-cli-image-gen](https://github.com/daveonkels/nano-cli-image-gen)** - Bulk thumbnail generator CLI using Gemini and OpenAI image APIs
 - 🎬 **[cinematic-taste-profile](https://github.com/daveonkels/cinematic-taste-profile)** - Personal microsite visualizing movie-watching data with D3.js
 - 🔤 **[fontdue](https://github.com/daveonkels/fontdue)** - A delicious way to explore and compare typefaces
-- 🎛️ **[MCP-Toggle](https://github.com/daveonkels/MCP-Toggle)** - MCP Server management scripts for Claude Code
+- 🎛️ **[mcp-toggle](https://github.com/daveonkels/MCP-Toggle)** - MCP Server management scripts for Claude Code
 - 🍺 **[homebrew-tap](https://github.com/daveonkels/homebrew-tap)** - Homebrew formulae for daveonkels projects
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/daveonkels)
+![GitHub Contribution Graph](https://ghchart.rshah.org/4493f8/daveonkels)
 
 ## Background
 
