@@ -13,18 +13,6 @@
 
 > I'd rather ship a prototype than polish a spec. By day I lead product and design for on-demand care and Health AI at One Medical. By night I build CLI tools, native apps, and whatever scratches the itch — currently running a 3,860-entity Home Assistant setup and deeply involved in agentic AI.
 
-## Featured Work
-
-![NOW LIVE](https://img.shields.io/badge/NOW_LIVE-March_2026-00A86B?style=flat-square) 
-
-### 🏥 Amazon One Medical Health AI Agent
-
-Your personalized health agent on Amazon.com and in the Amazon app. Knows your medications, allergies, and conditions. Get insights, book appointments, manage prescriptions, and connect to a One Medical provider for treatment. On-demand care included with Prime for 30+ common conditions for a limited time.
-
-`Health AI` · `Personalized Care` · `Amazon Bedrock` · `Prime`
-
-[**Read the announcement →**](https://www.aboutamazon.com/news/retail/amazon-health-ai-agent-one-medical)
-
 ## Current Projects
 
 - 🦞 **[shelldex](https://shelldex.com)** ([repo](https://github.com/daveonkels/clawdex)) - Every shell in the sea — the complete directory of OpenClaw clones, forks, and derivatives
