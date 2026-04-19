@@ -24,6 +24,7 @@
 - ♻️ **[ridwell-skill](https://github.com/daveonkels/ridwell-skill)** - Claude Code skill for managing Ridwell recycling pickups
 - 🖼️ **[nano-cli-image-gen](https://github.com/daveonkels/nano-cli-image-gen)** - Bulk thumbnail generator CLI using Gemini and OpenAI image APIs
 - 🎬 **[cinematic-taste-profile](https://github.com/daveonkels/cinematic-taste-profile)** - Personal microsite visualizing movie-watching data with D3.js
+- 🛰️ **[stellarspin](https://github.com/daveonkels/stellarspin)** - Browser-based Interstellar-inspired docking simulator in three.js with a CRT-terminal HUD
 - 🔤 **[fontdue](https://github.com/daveonkels/fontdue)** - A delicious way to explore and compare typefaces
 - 🎛️ **[mcp-toggle](https://github.com/daveonkels/MCP-Toggle)** - MCP Server management scripts for Claude Code
 - 🍺 **[homebrew-tap](https://github.com/daveonkels/homebrew-tap)** - Homebrew formulae for daveonkels projects
