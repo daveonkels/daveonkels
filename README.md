@@ -34,13 +34,6 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/4493f8/daveonkels)
 
-## Background
-
-- **Amazon One Medical** (2021–present) — Head of Product & Design, on-demand care + Health AI
-- **Amazon Just Walk Out** — Principal PM-T, scaled checkout-free retail
-- **Amazon Kindle** — Sr PM-T, growth initiatives
-- **Magnt** — Co-founder, SaaS for personal branding (acquired)
-
 ## Connect
 
 [![Website](https://img.shields.io/badge/-onk.io-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://onk.io)
