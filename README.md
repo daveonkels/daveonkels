@@ -21,6 +21,7 @@
 - 🔗 **[clinkding](https://github.com/daveonkels/clinkding)** - Modern CLI for linkding bookmark manager
 - 📧 **[fastmail-cli](https://github.com/daveonkels/fastmail-cli)** - Fastmail CLI for email, masked addresses, calendars, contacts, files, and vacation auto-replies
 - 📤 **[raycast-ai-exporter](https://github.com/daveonkels/raycast-ai-exporter)** - Export Raycast AI chat sessions to structured JSON
+- ⌨️ **[keyboardy](https://github.com/daveonkels/keyboardy)** - Raycast extension for searching keyboard shortcuts and cheatsheets from a markdown file
 - ♻️ **[ridwell-skill](https://github.com/daveonkels/ridwell-skill)** - Claude Code skill for managing Ridwell recycling pickups
 - 🖼️ **[nano-cli-image-gen](https://github.com/daveonkels/nano-cli-image-gen)** - Bulk thumbnail generator CLI using Gemini and OpenAI image APIs
 - 🎬 **[cinematic-taste-profile](https://github.com/daveonkels/cinematic-taste-profile)** - Personal microsite visualizing movie-watching data with D3.js
