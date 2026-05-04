@@ -1,6 +1,6 @@
 # Hi, I'm Dave 👋
 
-📍 **Seattle** | 🏥 **Head of Product & Design @ Amazon One Medical** | 🔧 **Endless tinkerer by night**
+📍 **Seattle** | 🔧 **Endless tinkerer**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -11,7 +11,7 @@
 ![Home Assistant](https://img.shields.io/badge/-Home_Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
 
-> I'd rather ship a prototype than polish a spec. By day I lead product and design for on-demand care and Health AI at One Medical. By night I build CLI tools, native apps, and whatever scratches the itch — currently running a 3,860-entity Home Assistant setup and deeply involved in agentic AI.
+> I'd rather ship a prototype than polish a spec. I build CLI tools, native apps, and whatever scratches the itch — currently running a 3,860-entity Home Assistant setup and deeply involved in agentic AI.
 
 ## Current Projects
 
