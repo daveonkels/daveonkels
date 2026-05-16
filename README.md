@@ -15,6 +15,7 @@
 
 ## Current Projects
 
+- 🌧️ **[seattle-seasons](https://seattle.onk.io)** ([repo](https://github.com/daveonkels/seattle-seasons)) - Interactive field guide to Seattle's 14 unofficial seasons — drag the year wheel and the weather follows
 - 🦞 **[shelldex](https://shelldex.com)** ([repo](https://github.com/daveonkels/clawdex)) - Every shell in the sea — the complete directory of OpenClaw clones, forks, and derivatives
 - 📱 **[labby](https://labby.casa)** ([repo](https://github.com/daveonkels/labby)) - Native iOS app for homelab enthusiasts connecting to Homepage dashboards
 - 💬 **[centralchat](https://centralchat.fyi)** ([repo](https://github.com/daveonkels/centralchat)) - ChatGPT, Claude, and Raycast AI chat archive viewer — local-first, privacy-focused
