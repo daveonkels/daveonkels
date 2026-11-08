@@ -11,9 +11,7 @@
 ![Home Assistant](https://img.shields.io/badge/-Home_Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
 
-> I'd rather ship a prototype than polish a spec. I build CLI tools, native apps, and whatever scratches the itch — currently running a 3,860-entity Home Assistant setup and deeply involved in agentic AI.
-
-## Current Projects
+## Projects
 
 - 🏠 **[Homepage Native](https://github.com/daveonkels/homepage-native)** - Search and launch your Homepage services from a native Home Assistant card
 - 🧠 **[Hacker Brain](https://github.com/daveonkels/hacker-brain)** - Find firsthand accounts in Hacker News comments and follow each one back to the original discussion
