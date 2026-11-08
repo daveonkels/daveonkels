@@ -1,6 +1,6 @@
 # Hi, I'm Dave 👋
 
-📍 **Seattle** | 🔧 **Endless tinkerer**
+📍 **Dallas** | 🔧 **Endless tinkerer**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -15,6 +15,9 @@
 
 ## Current Projects
 
+- 🏠 **[Homepage Native](https://github.com/daveonkels/homepage-native)** - Search and launch your Homepage services from a native Home Assistant card
+- 🧠 **[Hacker Brain](https://github.com/daveonkels/hacker-brain)** - Find firsthand accounts in Hacker News comments and follow each one back to the original discussion
+- 📺 **[Super Shield](https://github.com/daveonkels/super-shield)** - A quieter home screen for the NVIDIA SHIELD TV Pro, with Home Assistant scenes and cameras a remote click away
 - 🌧️ **[seattle-seasons](https://seattle.onk.io)** ([repo](https://github.com/daveonkels/seattle-seasons)) - Interactive field guide to Seattle's 14 unofficial seasons — drag the year wheel and the weather follows
 - 🦞 **[shelldex](https://shelldex.com)** ([repo](https://github.com/daveonkels/clawdex)) - Every shell in the sea — the complete directory of OpenClaw clones, forks, and derivatives
 - 📱 **[labby](https://labby.casa)** ([repo](https://github.com/daveonkels/labby)) - Native iOS app for homelab enthusiasts connecting to Homepage dashboards
@@ -22,7 +25,7 @@
 - 🔗 **[clinkding](https://github.com/daveonkels/clinkding)** - Modern CLI for linkding bookmark manager
 - 📧 **[fastmail-cli](https://github.com/daveonkels/fastmail-cli)** - Fastmail CLI for email, masked addresses, calendars, contacts, files, and vacation auto-replies
 - 📤 **[raycast-ai-exporter](https://github.com/daveonkels/raycast-ai-exporter)** - Export Raycast AI chat sessions to structured JSON
-- ⌨️ **[keyboardy](https://github.com/daveonkels/keyboardy)** - Raycast extension for searching keyboard shortcuts and cheatsheets from a markdown file
+- ⌨️ **[keyboardy](https://github.com/daveonkels/keyboardy)** - Raycast extension for searching keyboard shortcuts and cheatsheets from a markdown file. **[Keyboardy for Mac](https://github.com/daveonkels/keyboardy-mac)** (pre-alpha) teaches you the shortcuts behind menu items you click
 - ♻️ **[ridwell-skill](https://github.com/daveonkels/ridwell-skill)** - Claude Code skill for managing Ridwell recycling pickups
 - 🖼️ **[nano-cli-image-gen](https://github.com/daveonkels/nano-cli-image-gen)** - Bulk thumbnail generator CLI using Gemini and OpenAI image APIs
 - 🎬 **[cinematic-taste-profile](https://github.com/daveonkels/cinematic-taste-profile)** - Personal microsite visualizing movie-watching data with D3.js
@@ -40,3 +43,15 @@
 [![Website](https://img.shields.io/badge/-onk.io-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://onk.io)
 [![LinkedIn](https://img.shields.io/badge/-Dave_Onkels-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/onkels)
 [![X](https://img.shields.io/badge/-@daveonkels-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/daveonkels)
+
+```
+       ____ ____ ____ ____
+      /___//___//___//___/|
+      |   ||--:||:--||   ||
+      |   ||   ||   ||   ||
+      |   ||___||___||   ||
+      |   /|   ||   |\   \|
+     /   / |   ||   | \   \
+    /___/  |   ||   |  \___\
+           |___||___|
+```
