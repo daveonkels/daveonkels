@@ -13,6 +13,7 @@
 
 ## Projects
 
+- ✈️ **[IATA Lookup for Raycast](https://github.com/daveonkels/raycast-iata-lookup)** - Look up airport runway diagrams, airline callsigns, and aircraft specs by code, all offline on your Mac
 - 🏠 **[Homepage Native](https://github.com/daveonkels/homepage-native)** - Search and launch your Homepage services from a native Home Assistant card
 - 🧠 **[Hacker Brain](https://github.com/daveonkels/hacker-brain)** - Find firsthand accounts in Hacker News comments and follow each one back to the original discussion
 - 📺 **[Super Shield](https://github.com/daveonkels/super-shield)** - A quieter home screen for the NVIDIA SHIELD TV Pro, with Home Assistant scenes and cameras a remote click away
