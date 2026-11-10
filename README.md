@@ -17,7 +17,7 @@
 
 ### [Muley](https://muley.app/)
 
-Of everything I’ve built, this is the one I’m proudest of. Muley is my iPhone word game for friends and family. Everyone in your private league gets the same five-letter word each day. Solve it in fewer guesses to earn more points. On Sunday, someone gets bragging rights for the week.
+Of everything I’ve built, this is the one I’m most fond of. Muley is my iPhone word game for friends and family. Everyone in your private league gets the same five-letter word each day. Solve it in fewer guesses to earn more points. On Sunday, someone gets bragging rights for the week.
 
 **[Explore muley.app](https://muley.app/)** · **[Get it on the App Store](https://apps.apple.com/us/app/muley-letter-league/id6797298102)**
 
