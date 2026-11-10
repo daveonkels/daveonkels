@@ -13,6 +13,16 @@
 
 ## Projects
 
+<a href="https://muley.app/"><img align="right" width="88" height="88" src="https://muley.app/assets/kicking-muley.png" alt="Muley kicking up his heels"></a>
+
+### [Muley](https://muley.app/)
+
+Of everything I’ve built, this is the one I’m proudest of. Muley is my iPhone word game for friends and family. Everyone in your private league gets the same five-letter word each day. Solve it in fewer guesses to earn more points. On Sunday, someone gets bragging rights for the week.
+
+**[Explore muley.app](https://muley.app/)** · **[Get it on the App Store](https://apps.apple.com/us/app/muley-letter-league/id6797298102)**
+
+---
+
 - ✈️ **[IATA Lookup for Raycast](https://github.com/daveonkels/raycast-iata-lookup)** - Look up airport runway diagrams, airline callsigns, and aircraft specs by code, all offline on your Mac
 - 🏠 **[Homepage Native](https://github.com/daveonkels/homepage-native)** - Search and launch your Homepage services from a native Home Assistant card
 - 🧠 **[Hacker Brain](https://github.com/daveonkels/hacker-brain)** - Find firsthand accounts in Hacker News comments and follow each one back to the original discussion
